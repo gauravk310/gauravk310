@@ -78,7 +78,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** speciali
   <a href="https://leetcode.com/gskadam3b/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://gauravk0310.github.io/home/">
+  <a href="https://gauravk310.github.io/home/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:gskadam3b@gmail.com">
