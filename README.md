@@ -55,26 +55,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** speciali
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamsorry0310&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsorry0310&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsorry0310&theme=tokyonight" alt="GitHub Streak Stats" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamsorry0310&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 💼 Recent Achievements
 
 - 🏆 Built a Machine Learning/Deep Learning model for MRI Tumor Classification in a 24-hour non-stop hackathon at S.K.N. Sinhgad College of Engineering
