@@ -72,13 +72,13 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** speciali
   <a href="https://twitter.com/GauravK0310">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.instagram.com/iamsorry0310">
+  <a href="https://www.instagram.com/chikku_310">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://leetcode.com/gskadam3b/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://iamsorry0310.github.io/home/">
+  <a href="https://gauravk0310.github.io/home/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:gskadam3b@gmail.com">
