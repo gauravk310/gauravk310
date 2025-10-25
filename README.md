@@ -1,169 +1,123 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Gaurav Kadam!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  <img align="right" src="https://komarev.com/ghpvc/?username=iamsorry0310" alt="reisub0" />
-
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 400 />
-
-Welcome to my GitHub profile! I'm a  Web Dev. and passionate about Developing Softwares,FrontEnd,BackEnd , Machine Learning & Deep Learning. Here, you'll find a collection of my projects, contributions, and more.
-<!--
-## 🔭 Current Projects
-- [Project 1](https://github.com/your-username/project1): Brief description of Project 1.
-- [Project 2](https://github.com/your-username/project2): Brief description of Project 2.
-
--->
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Flask</strong>
-        </span><br><br><br>
-        <img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>Python</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>C++</strong>
-        </span><br><br><br>
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="64px">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>Django</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Flutter</strong></span><br><br><br>
-        <img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
-      </td>
-      <td width="25%" align="center">
-        <span><strong>MySql</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>C</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png">
-      </td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-
-## 💬 Ask Me About  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-- BackEnd Using Flask 
-- SQL DataBases
-- Data Vistulization
-
-  
-<!--
-# 📫 How to Reach Me
-- [Email](mailto:your-gskadam3b@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/gaurav-kadam-093b75242/)
-- [Twitter](https://twitter.com/GauravK0310)
--->
-
-
-<br/>
-<a href="https://twitter.com/GauravK0310">
-  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/gaurav-kadam-093b75242/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/iamsorry0310?igsh=bm02MnpqbGtvczlj">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<!--
-<a href="https://www.reddit.com/user//">
-  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a> -->
-<a href="https://leetcode.com/gskadam3b/">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant)
-
-<br />
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsorry0310&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsorry0310&layout=compact&theme=radical)
-
-## 📅 Recent Activity
-- Created a Machine Learning/Deep Learning Model To Classification Of Tumor of the MRI Scan in 24hr Non-Stop Hackathon at S.K.N. Sinhgad Collage of Engineering Korti, Pandharpur
-- Created a Personal Posrtfolio
-
-<!--
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
--->
-## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/gaurav-kadam-093b75242/)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourusername-blue)](https://twitter.com/GauravK0310)
-[![Website](https://img.shields.io/badge/Website-yourwebsite.com-blue)](https://iamsorry0310.github.io/home/)
-
-
-<!-- ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=iamsorry0310.iamsorry0310)
--->
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-<!-- For YouTube Videos -->
-<!-- 
-<h3 align="center">My latest videos on  <a href="https://youtube.com/cerberodev" target="_blank">my Youtube Channel</a></h3>
+# Hi there 👋, I'm Gaurav Kadam!
 
 <div align="center">
-
-<a href='https://youtu.be/SBw98tYercQ' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/SBw98tYercQ/mqdefault.jpg' alt='Flutter Meetup' />
-</a>
-<a href='https://youtu.be/XY3xpb5wLec' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/XY3xpb5wLec/mqdefault.jpg' alt='Workshop Flutter + Firebase #1 2020 clase 01' />
-</a>
-<a href='https://youtu.be/aprSJZ29Wos' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/aprSJZ29Wos/mqdefault.jpg' alt='#FlutterDayMeetups Managua - FlutterNi' />
-</a>
-<a href='https://youtu.be/rRmXWUoqWas' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/rRmXWUoqWas/mqdefault.jpg' alt='GDG Arequipa - Meetup Firebase 2020' />
-</a>
-<a href='https://youtu.be/SSuLwKNaU_8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/SSuLwKNaU_8/mqdefault.jpg' alt='FlutterDay Perú' />
-</a>
-<a href='https://youtu.be/DfA_SV7w0jA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/DfA_SV7w0jA/mqdefault.jpg' alt='Flutter Peru, 2do meetup online!' />
-</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
--->
 
-<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
-<a href="https://github.com/Neel2904">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsorry0310&theme=radical&hide=glsl,python" />
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamsorry0310&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
+Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** specializing in **MERN Stack**, **Backend Development**, and **Machine Learning**. I love building scalable applications and solving complex problems.
 
-<img src="https://imgur.com/rilHVxA.png"/>
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on full-stack web applications using MERN stack
+- 🌱 Learning advanced Machine Learning and Deep Learning techniques
+- 💡 Passionate about building efficient backends and beautiful frontends
+- 🎯 Focus areas: Web Development, Data Visualization, ML/DL
+- ⚡ Fun fact: Completed a 24-hour non-stop hackathon building an ML model for tumor classification!
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### **Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### **Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### **Tools & Technologies**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamsorry0310&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsorry0310&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsorry0310&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamsorry0310&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 💼 Recent Achievements
+
+- 🏆 Built a Machine Learning/Deep Learning model for MRI Tumor Classification in a 24-hour non-stop hackathon at S.K.N. Sinhgad College of Engineering
+- 🌐 Created a personal portfolio website
+- 💻 Developed multiple full-stack applications using MERN stack
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurav-kadam-093b75242/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/GauravK0310">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/iamsorry0310">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://leetcode.com/gskadam3b/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://iamsorry0310.github.io/home/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:gskadam3b@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+<div align="center">
+  <h3>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</h3>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
