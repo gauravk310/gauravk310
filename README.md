@@ -8,10 +8,13 @@
   <img src="https://komarev.com/ghpvc/?username=iamsorry0310&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+---
+
 ## 👨‍💻 Professional Summary
 
 Skilled Software Developer specializing in **MERN stack development**, **data preprocessing**, and **backend technologies** with hands-on professional and project experience. Currently serving as a Software Developer Intern with a proven track record of winning project competitions and participating in competitive programming challenges. Strong problem-solving abilities with expertise in Python, React.js, Node.js, Flask, database management, and data analysis.
 
+---
 
 ## 💼 Professional Experience
 
@@ -24,6 +27,7 @@ Skilled Software Developer specializing in **MERN stack development**, **data pr
 - Optimized database queries and application performance, reducing API response times by 25%
 - Utilized Git version control and conducted comprehensive testing to ensure code quality and deployment reliability
 
+---
 
 ## 🛠️ Technical Skills
 
@@ -77,6 +81,7 @@ Skilled Software Developer specializing in **MERN stack development**, **data pr
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
 </p>
 
+---
 
 ## 🏆 Achievements & Recognition
 
@@ -86,38 +91,52 @@ Skilled Software Developer specializing in **MERN stack development**, **data pr
 - 🎓 **Python Programming NPTEL Elite Certificate** - Government of India Initiative
 - 📚 **10+ Online Technical Courses** - Continuous learning and skill development
 
+---
 
 ## 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:gskadam3b@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gaurav-kadam-093b75242/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gauravk310">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/chikku.dev">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/gskadam3b/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://gaurav310.vercel.app/">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://gauravk310.github.io/home/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/GauravK0310">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
+---
 
 ## 📊 GitHub Statistics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravk310&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravk310&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravk310&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravk310&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
+---
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
