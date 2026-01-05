@@ -137,17 +137,6 @@ Skilled Software Developer specializing in **MERN stack development**, **data pr
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-<div align="center">
-  <h3>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</h3>
-</div>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
