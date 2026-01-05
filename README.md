@@ -7,13 +7,11 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=iamsorry0310&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
----
 
 ## 👨‍💻 Professional Summary
 
 Skilled Software Developer specializing in **MERN stack development**, **data preprocessing**, and **backend technologies** with hands-on professional and project experience. Currently serving as a Software Developer Intern with a proven track record of winning project competitions and participating in competitive programming challenges. Strong problem-solving abilities with expertise in Python, React.js, Node.js, Flask, database management, and data analysis.
 
----
 
 ## 💼 Professional Experience
 
@@ -26,7 +24,6 @@ Skilled Software Developer specializing in **MERN stack development**, **data pr
 - Optimized database queries and application performance, reducing API response times by 25%
 - Utilized Git version control and conducted comprehensive testing to ensure code quality and deployment reliability
 
----
 
 ## 🛠️ Technical Skills
 
@@ -80,7 +77,6 @@ Skilled Software Developer specializing in **MERN stack development**, **data pr
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
 </p>
 
----
 
 ## 🏆 Achievements & Recognition
 
@@ -90,7 +86,6 @@ Skilled Software Developer specializing in **MERN stack development**, **data pr
 - 🎓 **Python Programming NPTEL Elite Certificate** - Government of India Initiative
 - 📚 **10+ Online Technical Courses** - Continuous learning and skill development
 
----
 
 ## 📫 Connect With Me
 
@@ -115,7 +110,6 @@ Skilled Software Developer specializing in **MERN stack development**, **data pr
   </a>
 </p>
 
----
 
 ## 📊 GitHub Statistics
 
@@ -124,7 +118,6 @@ Skilled Software Developer specializing in **MERN stack development**, **data pr
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravk310&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
----
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
