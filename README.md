@@ -102,7 +102,7 @@ Skilled Software Developer specializing in **MERN stack development**, **data pr
   <a href="https://leetcode.com/gskadam3b/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://gauravk310.github.io/home/">
+  <a href="https://gaurav310.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://twitter.com/GauravK0310">
