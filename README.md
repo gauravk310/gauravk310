@@ -141,7 +141,7 @@ Skilled Software Developer specializing in **MERN stack development**, **data pr
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 <p align="center">
-  <a href="Gaurav_Kadam_Resume.pdf" download>
+  <a href="https://github.com/gauravk310/gauravk310/blob/main/Gaurav_Kadam___Resume.pdf" download>
     <img src="https://img.shields.io/badge/Download%20Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
   </a>
 </p>
