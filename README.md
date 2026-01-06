@@ -154,7 +154,6 @@ Skilled Software Developer specializing in **MERN stack development**, **data pr
 </div>
 
 
-<img src="https://raw.githubusercontent.com/gauravk310/gauravk310/output/pacman-contribution-graph.svg" />
 <img src="https://raw.githubusercontent.com/gauravk310/gauravk310/output/snake.svg" alt="Snake animation" />
 
 ---
