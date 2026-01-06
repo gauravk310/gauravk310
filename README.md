@@ -163,4 +163,11 @@ Skilled Software Developer specializing in **MERN stack development**, **data pr
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/gauravk310/gauravk310/output/github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/gauravk310/gauravk310/output/ACTUAL_DARK_FILENAME.svg">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/gauravk310/gauravk310/output/ACTUAL_LIGHT_FILENAME.svg">
+  <img alt="Snake contribution graph" 
+    src="https://raw.githubusercontent.com/gauravk310/gauravk310/output/ACTUAL_LIGHT_FILENAME.svg">
+</picture>
