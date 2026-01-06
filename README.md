@@ -163,11 +163,7 @@ Skilled Software Developer specializing in **MERN stack development**, **data pr
   </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravk310/gauravk310/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravk310/gauravk310/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gauravk310/gauravk310/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
+<img 
+  src="https://raw.githubusercontent.com/gauravk310/gauravk310/output/pacman-contribution-graph.svg"
+  alt="Pacman contribution graph"
+/>
