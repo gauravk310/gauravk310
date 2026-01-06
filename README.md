@@ -153,15 +153,11 @@ Skilled Software Developer specializing in **MERN stack development**, **data pr
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravk310&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+
+<img src="https://raw.githubusercontent.com/gauravk310/gauravk310/output/pacman-contribution-graph.svg" />
+
 <p align="center">
   <a href="https://github.com/gauravk310/gauravk310/blob/main/Gaurav_Kadam___Resume.pdf" download>
     <img src="https://img.shields.io/badge/Download%20Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
   </a>
 </p>
-
-<img src="https://raw.githubusercontent.com/gauravk310/gauravk310/output/pacman-contribution-graph.svg" />
-
