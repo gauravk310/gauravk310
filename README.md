@@ -138,9 +138,9 @@ Skilled Software Developer specializing in **MERN stack development**, **data pr
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravk310&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=gauravk310&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gauravk310&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravk310&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravk310&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
