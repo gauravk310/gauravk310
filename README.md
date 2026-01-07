@@ -28,6 +28,7 @@ Skilled Software Developer specializing in **MERN stack development**, **data pr
 - Optimized database queries and application performance, reducing API response times by 25%
 - Utilized Git version control and conducted comprehensive testing to ensure code quality and deployment reliability
 - Creating Digital Content for the product
+  
 ---
 
 ## 🛠️ Technical Skills
