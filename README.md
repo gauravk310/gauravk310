@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Professional Summary
 
-Skilled Software Developer specializing in **MERN stack development**, **data preprocessing**, and **backend technologies** with hands-on professional and project experience. Currently serving as a Software Developer Intern with a proven track record of winning project competitions and participating in competitive programming challenges. Strong problem-solving abilities with expertise in Python, React.js, Node.js, Flask, database management, and data analysis.
+Skilled Software Developer specializing in **MERN stack development**, **data preprocessing**, and **backend technologies**  with hands-on professional and project experience. Currently serving as a Software Developer Intern with a proven track record of winning project competitions and participating in competitive programming challenges. Strong problem-solving abilities with expertise in Python, React.js, Node.js, Flask, database management, and data analysis.
 
 ## 💼 Professional Experience
 
